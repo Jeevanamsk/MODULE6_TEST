@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.page{
+    left:100px
+}
+
+
+.rectangle1{
+    position: absolute;
+    width: 1830px;
+    height: 700px;
+    
+    top: 0px;
+    
+    background: #000000;
+}
+.rectangle1 label{
+position: absolute;
+width: 692.27px;
+height: 144px;
+left: 518px;
+right: 517.78px;
+top: 101px;
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 121px;
+
+color: #FFFFFF;
+}
+.rectangle1 input.text1{
+    box-sizing: border-box;
+    box-sizing: border-box;
+    position: absolute;
+    width: 1372px;
+    height: 72px;
+    left: 146px;
+    top: 409px;
+    background-color: black;
+    border: 1px solid #FFFFFF;
+    }
+
+.rectangle1 input.text2{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1372px;
+    height: 72px;
+    left: 146px;
+    top: 302px;
+    background-color: black;
+    border: 1px solid #FFFFFF;
+}
+
+.rectangle1 input.button1{
+    position: absolute;
+    width: 260.75px;
+    height: 58px;
+    left: 146px;
+    top: 549px;
+    background: #FFFFFF;
+    color: #000000;
+}
+
+.rectangle1 input.text1,input.text2,input.button1   {
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+}
+
+.rectangle2 label{
+    position: absolute;
+    width: 1585px;
+    height: 160px;
+    left: 62px;
+    top: 741px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 121px;
+
+    color: #000000;
+}
+
+#app-container{
+box-sizing: border-box;
+position: absolute;
+width: 2000px;
+height: 700px;
+left:362px;
+top: 936px;
+border: 2px solid #000000;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+
+bottom: 100px;
+}
+
+#location{
+    
+    width: 669.46px;
+    height: 74px;
+    left: 116px;
+    top: 1519px;
+}
+#late{
+
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 1301px;
+}
+#long{
+    left: 849px;
+    width: 669.46px;
+    height: 74px;
+}
+#TimeZone{
+
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 1410px;
+}
+#Windspeed{
+    width: 669.46px;
+    height: 74px;
+    left: 116px;
+    top: 1519px;
+
+}
+#pressure{
+
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 1622px;
+
+}
+#humidity{
+
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 1725px;
+
+}
+#winddirection{
+
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 1828px;
+
+}
+#uvindex{
+
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 1937px;
+}
+#feelslike{
+
+width: 669.46px;
+height: 74px;
+left: 116px;
+top: 2040px;
+
+}
+
+
+
+
+
+/*
+.rectangle2 table{
+    border-style: None;
+    
+}
+.container table{
+position: absolute;
+width: 669.46px;
+height: 74px;
+left: 116px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+font
+color: #000000;
+
+
+}*/
+
+
+
+
+
